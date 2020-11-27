@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.domain", "..\app.domain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.repository", "..\app.repository\app.repository.csproj", "{AC84AE3D-13E9-4D11-88BE-439EC3A91B7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app.service", "..\app.service\app.service.csproj", "{FD5276CC-FEE3-4961-9071-2A3B1AC7A3F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "app.service", "..\app.service\app.service.csproj", "{FD5276CC-FEE3-4961-9071-2A3B1AC7A3F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

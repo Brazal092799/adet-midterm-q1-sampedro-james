@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Acads\\OnionMovie2\\app.service\\app.service.csproj": {}
+    "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.service\\app.service.csproj": {}
   },
   "projects": {
-    "D:\\Acads\\OnionMovie2\\app.domain\\app.domain.csproj": {
+    "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.domain\\app.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Acads\\OnionMovie2\\app.domain\\app.domain.csproj",
+        "projectUniqueName": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.domain\\app.domain.csproj",
         "projectName": "app.domain",
-        "projectPath": "D:\\Acads\\OnionMovie2\\app.domain\\app.domain.csproj",
-        "packagesPath": "C:\\Users\\larzt\\.nuget\\packages\\",
-        "outputPath": "D:\\Acads\\OnionMovie2\\app.domain\\obj\\",
+        "projectPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.domain\\app.domain.csproj",
+        "packagesPath": "C:\\Users\\jamez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\larzt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jamez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -68,27 +63,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Acads\\OnionMovie2\\app.repository\\app.repository.csproj": {
+    "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.repository\\app.repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Acads\\OnionMovie2\\app.repository\\app.repository.csproj",
+        "projectUniqueName": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.repository\\app.repository.csproj",
         "projectName": "app.repository",
-        "projectPath": "D:\\Acads\\OnionMovie2\\app.repository\\app.repository.csproj",
-        "packagesPath": "C:\\Users\\larzt\\.nuget\\packages\\",
-        "outputPath": "D:\\Acads\\OnionMovie2\\app.repository\\obj\\",
+        "projectPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.repository\\app.repository.csproj",
+        "packagesPath": "C:\\Users\\jamez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\larzt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jamez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -100,8 +90,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Acads\\OnionMovie2\\app.domain\\app.domain.csproj": {
-                "projectPath": "D:\\Acads\\OnionMovie2\\app.domain\\app.domain.csproj"
+              "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.domain\\app.domain.csproj": {
+                "projectPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.domain\\app.domain.csproj"
               }
             }
           }
@@ -140,27 +130,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Acads\\OnionMovie2\\app.service\\app.service.csproj": {
+    "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.service\\app.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Acads\\OnionMovie2\\app.service\\app.service.csproj",
+        "projectUniqueName": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.service\\app.service.csproj",
         "projectName": "app.service",
-        "projectPath": "D:\\Acads\\OnionMovie2\\app.service\\app.service.csproj",
-        "packagesPath": "C:\\Users\\larzt\\.nuget\\packages\\",
-        "outputPath": "D:\\Acads\\OnionMovie2\\app.service\\obj\\",
+        "projectPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.service\\app.service.csproj",
+        "packagesPath": "C:\\Users\\jamez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\larzt\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\jamez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -172,8 +157,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\Acads\\OnionMovie2\\app.repository\\app.repository.csproj": {
-                "projectPath": "D:\\Acads\\OnionMovie2\\app.repository\\app.repository.csproj"
+              "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.repository\\app.repository.csproj": {
+                "projectPath": "C:\\Users\\jamez\\source\\repos\\adet-midterm-q1-sampedro-james\\app.repository\\app.repository.csproj"
               }
             }
           }
@@ -204,7 +189,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
